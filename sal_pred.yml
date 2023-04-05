@@ -1,4 +1,4 @@
-name: vinet_env
+name:sal_pred_env
 channels:
   - pytorch
   - anaconda
