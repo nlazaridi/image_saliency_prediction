@@ -32,4 +32,7 @@ To use this code, first activate the Conda environment as described above. Then,
 python generate_mask.py --img_path='/images/0245.png' --save_test_path_root='preds/'
 ```
 Replace '/images/0245.png' with the path to the input image that you want to predict saliency for and 'preds/' with the path to the folder that saliency mask will be saved.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 23a3ad9f17e0382f8960c68daed54c5bcf9ef6ca
