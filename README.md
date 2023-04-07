@@ -6,7 +6,7 @@ This repository contains code for saliency prediction in images using [VST model
 
 A pretrained model is available for download from the following link:
 
-[drive](https://drive.google.com/file/d/1RWyrU72GPgAFdcglI1V_DLHWPuiRiTHM/view?usp=sharing)
+[drive](https://drive.google.com/file/d/1KMuKudzpxAK38oc4ltBPXCxbDRiwxrxW/view?usp=sharing)
 
 To use this model, simply download the .pt file and load it into your PyTorch code.
 
